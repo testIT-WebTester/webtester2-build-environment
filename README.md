@@ -1,6 +1,7 @@
-This repository contains the Docker build environment definition for WebTester v2.
+This repository contains the CI/CD build environment for [WebTester][1].
+
 The Dockerfile will be automatically build by Docker Hub's repository pipeline.
+The image is available [here][2].
 
-The image is available [here][1].
-
-[1]: https://hub.docker.com/r/caaqe/webtester2-build-environment/
+[1]: https://github.com/testIT-WebTester/webtester2-core
+[2]: https://hub.docker.com/r/caaqe/webtester2-build-environment/
